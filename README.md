@@ -6,11 +6,11 @@ Implementação de uma IA para o jogo SNAKE utilizando Reinforcement Learning, f
 </p>
 
 <p align="center">
-  <img src="assets/gifs/Model1Env1.png" width="250">
-  <img src="assets/gifs/Model1Env2.png" width="250">
+  <img src="assets/score/Model1Env1.png" width="250">
+  <img src="assets/score/Model1Env2.png" width="250">
 </p>
 
 <p align="center">
-  <img src="assets/gifs/Model2Env1.png" width="250">
-  <img src="assets/gifs/Model2Env2.png" width="250">
+  <img src="assets/score/Model2Env1.png" width="250">
+  <img src="assets/score/Model2Env2.png" width="250">
 </p>
