@@ -45,6 +45,8 @@ Para a execução desse módulo é necessário passar como parâmetro de linha d
 
 # ALGUNS RESULTADOS
 
+A seguir são apresentados os gráficos das pontuações de cada agente em função dos episódios de treinamento, cada um dos gráficos também apresenta a média móvel das pontuações obtidas nos últimos 100 episódios de treinamento.
+
 <p align="center">
   <img src="assets/score/Model1Env1.png" width="250">
   <img src="assets/score/Model1Env2.png" width="250">
